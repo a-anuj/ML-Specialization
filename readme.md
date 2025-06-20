@@ -18,13 +18,14 @@ The specialization is divided into 3 courses:
 - Multiclass classification
 - Vectorization for performance
 - TensorFlow basics
+- Decision Trees, Random Forests and XGBoost
 
 ### 3. Unsupervised Learning, Recommenders, Reinforcement Learning
 - K-means Clustering
 - Anomaly detection
 - Content-based and collaborative filtering
 - Markov Decision Processes (MDPs)
-- Q-learning and reinforcement basics
+- Reinforcement basics
 
 ## 🛠 Tools & Libraries
 - Python
